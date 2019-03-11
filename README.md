@@ -1,1 +1,1 @@
-# Kaggle-Google-Analytics-Customer-Revenue-Prediction
+# Kaggle Google Analytics Customer Revenue Prediction
