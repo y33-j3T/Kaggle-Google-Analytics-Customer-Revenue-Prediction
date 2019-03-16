@@ -2,6 +2,12 @@
 
 ## Contents
 - Introduction
-- Laboratories
-- Notes
-- Contributing
+- Credits
+- License
+
+## Introduction
+
+## Credits
+
+## License
+
