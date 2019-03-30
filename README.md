@@ -4,6 +4,7 @@
 - Introduction
 - Credits
 - License
+- Contributing
 
 ## Introduction
 
