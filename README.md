@@ -23,4 +23,4 @@ For full details of the Google Analytics Customer Revenue Prediction competition
 ## Contributing
 
 ## License
-Kaggle Google Analytics Customer Revenue Prediction is licensed under the [MIT License](./LICENSE).
+Kaggle Google Analytics Customer Revenue Prediction is released under the [MIT License](./LICENSE).
