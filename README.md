@@ -32,9 +32,9 @@ Competition website: https://www.kaggle.com/c/ga-customer-revenue-prediction
   
 > #### Root Mean Squared Error (RMSE)
 > Submissions are scored on the root mean squared error. RMSE is defined as:
-> \mathcal{W}(A,f) = (T,\bar{f})
+> <img src="https://latex.codecogs.com/svg.latex?RMSE&space;=&space;\sqrt{\frac{1}{n}\sum_{i=1}^{n}&space;\left&space;(&space;y_{i}&space;-&space;\hat{y}_{i}&space;\right&space;)^{2}}" title="RMSE = \sqrt{\frac{1}{n}\sum_{i=1}^{n} \left ( y_{i} - \hat{y}_{i} \right )^{2}}" />
 > where y hat is the natural log of the predicted revenue for a customer and y is the natural log of the actual summed revenue value plus one.
-
+>
 > #### Submission File
 > For each `fullVisitorId` in the test set, you must predict the **natural log** of their total revenue in `PredictedLogRevenue`. The submission file should contain a header and have the following format:
 > ``` markdown
