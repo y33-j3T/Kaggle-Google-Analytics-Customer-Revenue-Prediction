@@ -11,7 +11,7 @@ Competition website: https://www.kaggle.com/c/ga-customer-revenue-prediction
 - [License](#License)
 
 ## Introduction
-First Kaggle competition!
+My first Kaggle competition!
 
 ### Competition Description
 <details>
