@@ -11,7 +11,7 @@ Competition website: https://www.kaggle.com/c/ga-customer-revenue-prediction
 - [License](#License)
 
 ## Introduction
-My first Kaggle competition!
+My very first Kaggle competition, worked along with experienced seniors. This repository consists of my works which resembles one of my earliest interactions with Data Science.
 
 ### Competition Description
 <details>
