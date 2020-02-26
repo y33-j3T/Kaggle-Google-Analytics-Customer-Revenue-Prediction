@@ -55,9 +55,6 @@ My very first Kaggle competition, worked along with experienced seniors. This re
 </details>
 
 ## Installation
-- [Anaconda](https://www.anaconda.com/distribution/)
-- [NumPy](http://www.numpy.org/)
-- [Pandas](http://pandas.pydata.org/)
 
 ## Usage
 Few ways to run these notebooks interactively:
