@@ -2,13 +2,20 @@
 Competition website: https://www.kaggle.com/c/ga-customer-revenue-prediction
 
 ## Contents
-- [Introduction](#Introduction)
-- [Installation](#Installation)
-- [Usage](#Usage)
-- [Exploratory Data Analysis](#Exploratory-Data-Analysis)
-- [Model Deployment](#Model-Deployment)
-- [Contributing](#Contributing)
-- [License](#License)
+- [Kaggle Google Analytics Customer Revenue Prediction](#kaggle-google-analytics-customer-revenue-prediction)
+  - [Contents](#contents)
+  - [Introduction](#introduction)
+    - [Competition Description](#competition-description)
+    - [Competition Evaluation](#competition-evaluation)
+  - [Installation](#installation)
+  - [Usage](#usage)
+    - [Jupyter Notebook](#jupyter-notebook)
+    - [Google Colab](#google-colab)
+    - [Kaggle Kernels](#kaggle-kernels)
+  - [Exploratory Data Analysis](#exploratory-data-analysis)
+  - [Model Deployment](#model-deployment)
+  - [Contributing](#contributing)
+  - [License](#license)
 
 ## Introduction
 My very first Kaggle competition, worked along with experienced seniors. This repository consists of my works which resembles one of my earliest interactions with data science and machine learning.
@@ -35,7 +42,7 @@ My very first Kaggle competition, worked along with experienced seniors. This re
 > Submissions are scored on the root mean squared error. RMSE is defined as:
 >
 > <p align="center">
-> <img src="https://latex.codecogs.com/svg.latex?RMSE&space;=&space;\sqrt{\frac{1}{n}\sum_{i=1}^{n}&space;\left&space;(&space;y_{i}&space;-&space;\hat{y}_{i}&space;\right&space;)^{2}}" title="root mean squared error" />
+> <img src="https://latex.codecogs.com/gif.latex?RMSE=\sqrt{\frac{1}{n}\sum_{i=1}^{n}\left(y_{i}-\hat{y}_{i}\right)^{2}}" title="RMSE=\sqrt{\frac{1}{n}\sum_{i=1}^{n}\left(y_{i}-\hat{y}_{i}\right)^{2}}" />
 > </p>
 >
 > where y hat is the natural log of the predicted revenue for a customer and y is the natural log of the actual summed revenue value plus one.
@@ -55,9 +62,6 @@ My very first Kaggle competition, worked along with experienced seniors. This re
 </details>
 
 ## Installation
-- [Anaconda](https://www.anaconda.com/distribution/)
-- [NumPy](http://www.numpy.org/)
-- [Pandas](http://pandas.pydata.org/)
 
 ## Usage
 Few ways to run these notebooks interactively:
